@@ -1,0 +1,19 @@
+{
+  "name": "react_tetris",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://discoverita.com",
+  "dependencies": {
+    "arrow-keys-react": "^1.0.6",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.0",
+    "react-interval": "^2.0.2",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
